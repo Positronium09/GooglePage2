@@ -4,12 +4,12 @@
 	let links: LinkData[] = new Array();
 	links.push({
 		displayName: "Github",
-		url: "https://music.youtube.com/",
+		url: "https://github.com/",
 		color: "#F0FFFF"
 	});
 	links.push({
 		displayName: "Stackoverflow",
-		url: "https://mail.google.com/mail/",
+		url: "https://stackoverflow.com/",
 		color: "#F6781D"
 	});
 </script>
